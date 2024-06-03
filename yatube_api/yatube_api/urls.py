@@ -11,7 +11,7 @@ from django.conf.urls import url
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="API_final_yatube",
+        title='API_final_yatube',
         default_version='v1',
         description="Документация для проекта api_final_yatube",
         # terms_of_service="URL страницы с пользовательским соглашением",
